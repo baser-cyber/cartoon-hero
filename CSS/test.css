@@ -1,0 +1,28 @@
+body{
+	background-color: lightblue;
+}
+<style type="text/css">
+h1{
+	font-size: 30px;
+	color: #101e7b;
+	font-family: clash grotesk;
+	font-weight: 100;
+}
+h2{
+	color: red;
+	font-size: 20px;
+
+}
+.big{
+	font-size: 60px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
+h1 span{
+	color: hotpink;
+}
+</style>
